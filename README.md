@@ -1,7 +1,7 @@
 # FileSync
 Sync files from one location to another (including a network share).
 
-Certainly! Let's break down the PowerShell script step by step:
+Let's break down the PowerShell script step by step:
 
 1. **Setting Source and Destination Folders**:
    ```powershell
